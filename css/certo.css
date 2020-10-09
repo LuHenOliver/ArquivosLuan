@@ -1,0 +1,26 @@
+body{
+    background-image: url("../img/decolou.gif");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.certo{
+    width: 420px;
+    margin: 120px auto 0px auto;
+    color: rgb(0, 17, 255);
+    font-size: 60px;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px rgb(1, 0, 71);
+}
+
+a{
+    color: rgb(0, 140, 255);
+    font-size: 30px;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px rgb(1, 0, 71);
+}

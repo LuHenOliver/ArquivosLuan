@@ -1,0 +1,26 @@
+body{
+    background-image: url("../img/erro.gif");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.erro{
+    width: 420px;
+    margin: 120px auto 0px auto;
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 1px rgb(250, 0, 0);
+}
+
+a{
+    color: rgb(255, 208, 0);
+    font-size: 30px;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px rgb(102, 0, 0);
+}

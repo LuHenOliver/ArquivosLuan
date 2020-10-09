@@ -1,0 +1,41 @@
+body{
+    background-image: url("../img/painel.jpeg");    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+	display: block;
+	height: 55px;
+	width: 395px;
+	margin: 10px;
+	border-radius: 30px;
+	border: 1px solid black;
+	font-size: 16pt;
+	padding: 10px 20px;
+	background-color: rgba(255,255,255,0.6);
+	color: rgb(0, 0, 0);
+	outline: none;
+}
+
+div#formLogin{
+	width: 450px;
+    margin: 220px auto 0px auto;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family:Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+
+input[type=submit]{
+    background-color: #ff0000;
+    width: 320px;
+	border: none;
+	cursor: pointer;
+    color: white;
+    margin: auto auto;
+}
